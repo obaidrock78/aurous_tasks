@@ -16,7 +16,44 @@ const TopHeader = ()=> {
                     </a>
                 </li>
 
-                
+                <li className="header__links__item mobile-item">
+                    <a href="https://thegoodinside.com/" className="btn btn-header shop">
+                        Shop
+                    </a>
+                </li>
+
+                <li className="header__links__item toggle__countries desktop current_language" id="toggle__countries"
+                    data-current-lang="">
+                    <a href="javascript:void(0)" className="toggle__countries hide-arrow">
+                        <span id="country_name" className="country_name">
+                            United States <span className="uppercase">(usd)</span>
+                        </span>
+                    </a>
+
+                    <div className="countries__container " style={{display: "none"}}>
+                        <a href="javascript:void(0)" className="close mobile_menu_close">
+                            <i className="icon-icn_close"></i>
+                        </a>
+                        <div className="container">
+                            <ul className="countries__list">
+                                <li className="countries__list__item">
+                                    <a href="javascript:void(0)" className="check__country custom_check__country"
+                                        data-id="2" data-name="Argentina" data-currency="usd">
+                                        Argentina <span className="uppercase">(usd)</span>
+                                    </a>
+                                </li>
+                                <li className="countries__list__item">
+                                    <a href="javascript:void(0)" className="check__country custom_check__country"
+                                        data-id="3" data-name="Australia" data-currency="usd">
+                                        Australia <span className="uppercase">(usd)</span>
+                                    </a>
+                                </li>
+                                <li className="countries__list__item">
+                                    <a href="javascript:void(0)" className="check__country custom_check__country"
+                                        data-id="4" data-name="Austria" data-currency="usd">
+                                        Austria <span className="uppercase">(usd)</span>
+                                    </a>
+                                </li>
                                 <li className="countries__list__item">
                                     <a href="javascript:void(0)" className="check__country custom_check__country"
                                         data-id="5" data-name="Belgium" data-currency="usd">
