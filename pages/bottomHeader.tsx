@@ -670,7 +670,174 @@ const BottomHeader = () => {
                         className="check__country custom_check__country"
                         data-id="42"
                         data-name="Philippines"
-                      
+                        data-currency="usd"
+                      >
+                        Philippines <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="43"
+                        data-name="Poland"
+                        data-currency="usd"
+                      >
+                        Poland <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="44"
+                        data-name="Portugal"
+                        data-currency="usd"
+                      >
+                        Portugal <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="45"
+                        data-name="Romania"
+                        data-currency="usd"
+                      >
+                        Romania <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="46"
+                        data-name="Singapore"
+                        data-currency="usd"
+                      >
+                        Singapore <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="47"
+                        data-name="Slovakia"
+                        data-currency="usd"
+                      >
+                        Slovakia <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="48"
+                        data-name="Slovenia"
+                        data-currency="usd"
+                      >
+                        Slovenia <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="61"
+                        data-name="South Korea"
+                        data-currency="usd"
+                      >
+                        South Korea <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="50"
+                        data-name="Spain"
+                        data-currency="usd"
+                      >
+                        Spain <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="65"
+                        data-name="Suriname"
+                        data-currency="usd"
+                      >
+                        Suriname <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="51"
+                        data-name="Sweden"
+                        data-currency="usd"
+                      >
+                        Sweden <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="52"
+                        data-name="Switzerland"
+                        data-currency="usd"
+                      >
+                        Switzerland <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="53"
+                        data-name="Taiwan"
+                        data-currency="usd"
+                      >
+                        Taiwan <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="62"
+                        data-name="Thailand"
+                        data-currency="usd"
+                      >
+                        Thailand <span className="uppercase">(usd)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="54"
+                        data-name="United Kingdom"
+                        data-currency="gbp"
+                      >
+                        United Kingdom <span className="uppercase">(gbp)</span>
+                      </a>
+                    </li>
+                    <li className="countries__list__item">
+                      <i className="ib vm icon-icn_check_small"></i>
+                      <a
+                        href="javascript:void(0)"
+                        className="check__country custom_check__country"
+                        data-id="1"
+                        data-name="United States"
+                        data-currency="usd"
+                      >
                         United States <span className="uppercase">(usd)</span>
                       </a>
                     </li>
